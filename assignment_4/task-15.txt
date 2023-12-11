@@ -1,0 +1,6 @@
+Task - When will the else part of try-except-else be executed?
+
+ans - the else part is executed when there is no error found in the
+      program.
+
+      

@@ -1,0 +1,8 @@
+# task - Explain Exception handling? What is an Error in Python?
+
+ans - exception handling in python allows you to separate error handling code from 
+      nornmal code.an exception is a python object which represents an error. 
+
+ans 2 - A logical error occurs in python when the code runs without any syntax or runtime
+        error but produces incorrect results due to flawed logic in the code.
+        

@@ -1,0 +1,12 @@
+Task - How many except statements can a try-except block have? Name Some
+       built-in exception classes.
+
+ans - there has to be atleast one except statment try-escept block have.
+
+ans 2 - assertion error
+        index error
+        attribute error
+        key error
+        name error
+        zerodivision error
+        

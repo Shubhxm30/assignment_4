@@ -1,0 +1,5 @@
+Task - can one block of except statements handle multiple exception?
+
+ans - yes , the single block of except statments in python can handle the multiple 
+      exceptions. this feature allows you to handle diff types of exceptions using 
+      a single block of code.

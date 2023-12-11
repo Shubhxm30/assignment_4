@@ -1,0 +1,4 @@
+Task - When is the finally block executed?
+
+ans - its a block which always gets executed.regardless of wheather A
+      exception is thrown.

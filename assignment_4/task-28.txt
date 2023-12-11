@@ -1,0 +1,3 @@
+task - What relationship is appropriate for Course and Faculty?
+
+ans - assosiation relationship.

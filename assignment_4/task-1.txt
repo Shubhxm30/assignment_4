@@ -1,0 +1,13 @@
+Task - What is File function in python? What is keywords to create and write
+file.
+
+ans - file function is mainly use to manipulate the files accessible by users. 
+      by file function programer can create and delete and perform crud operation
+      on files.
+
+keywords :
+
+Create file -  open("file name",'x').
+               'x' is the parameter.
+
+write file - write() function used to write the file.

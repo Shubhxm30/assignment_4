@@ -1,0 +1,4 @@
+Task - What is Instantiation in terms of OOP terminology?
+
+ans - its refer to the creation of an object in an oop language.refercing a class
+      declaration, an instantiated object is created.

@@ -1,0 +1,4 @@
+task - What relationship is appropriate for Student and Person?
+
+ans - it can establishes an "is-a" or "kind of" relationship bettween 
+      student and Person.
